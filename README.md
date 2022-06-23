@@ -8,7 +8,7 @@
 - Compatible with all mobile devices and with a beautiful and pleasant user interface.
 
 
-live : https://coffee-website-o.netlify.app
+- live : https://coffee-website-o.netlify.app
 
 
 
